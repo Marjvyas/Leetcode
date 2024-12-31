@@ -1,1 +1,1 @@
-# Leetcode mysql
+# Leetcode
